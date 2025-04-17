@@ -75,7 +75,7 @@
 # PROCEDURES:
 # =====================================================================
 # 1. Deployment Steps
-# AWS EC2 Deployment
+# AWS EC2 Deployment - Visit prod url - /http://13.48.24.60/ to view the app on your browser.
 # - Launch EC2 instance (Ubuntu, t2.micro)
 # - Configure security group (ports 22, 80)
 # - Connect via SSH by running command:
