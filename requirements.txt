@@ -1,0 +1,10 @@
+Flask
+pymongo
+pandas
+jupyter
+matplotlib
+python-dotenv
+gunicorn
+seaborn
+numpy
+certifi

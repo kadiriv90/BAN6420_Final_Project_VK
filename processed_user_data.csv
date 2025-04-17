@@ -1,0 +1,6 @@
+name,age,email,gender,income,utilities,entertainment,school_fees,shopping,healthcare,total_spent,savings,timestamp,total_spending,net_income
+VICTOR KADIRI,26,kadvik@gmail.com,male,3800.0,100.0,200.0,420.0,450.0,90.0,1260.0,2540.0,2025-04-17 17:10:33.774202,1260.0,2540.0
+VICTOR KADIRI,22,kadvik@gmail.com,male,4200.0,100.0,200.0,380.0,450.0,90.0,1220.0,2980.0,2025-04-17 17:44:14.825424,1220.0,2980.0
+DEBORAH KADIRI,23,debkad@gmail.com,male,4500.0,40.0,200.0,0.0,300.0,200.0,740.0,3760.0,2025-04-17 17:45:22.834567,740.0,3760.0
+Jasmine Kadiri,21,jaskad@gmail.com,female,2000.0,10.0,200.0,0.0,200.0,50.0,460.0,1540.0,2025-04-17 17:56:10.679690,460.0,1540.0
+Sophie Kadiri,27,Sopkad@gmail.com,female,2500.0,200.0,40.0,65.0,250.0,70.0,625.0,1875.0,2025-04-17 19:41:55.854916,625.0,1875.0
