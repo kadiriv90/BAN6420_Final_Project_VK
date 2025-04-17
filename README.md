@@ -17,7 +17,7 @@
 # - User-friendly web form for data collection
 # - MongoDB backend for secure data storage
 # - Automated data processing and visualization
-# - Production-ready deployment on AWS EC2
+# - Production-ready deployment on AWS EC2 - Please visit url - /http://13.48.24.60/ on your browser.
 # - Comprehensive data export capabilities
 
 # =====================================================================
